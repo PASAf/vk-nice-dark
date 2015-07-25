@@ -156,7 +156,7 @@ ul.t0 .t_r a:hover {background:#333}
 #im_peer_controls_wrap {background:#444!important}
 .im_editable,.im_tab_selected .im_tab2 {background:#333!important;color:#999!important}
 #im_peer_controls {width:-moz-max-content;width:-webkit-max-content;width:-o-max-content;width:-ms-max-content;margin:auto}
-.dialogs_new_msg,.feedback_row_clickable_over1, .feedback_row_clickable_over2, .feedback_row_clickable_over3, .feedback_row_clickable_over4 {background:#444!important}
+.im_unread_bar_wrap, .dialogs_new_msg, .im_new_msg .im_log_author, .im_new_msg .im_log_body, .im_new_msg .im_log_date, .im_sel_row .im_log_author, .im_sel_row .im_log_body, .im_sel_row .im_log_date, .im_sel_row, .im_sel_row, .feedback_row_clickable_over1, .feedback_row_clickable_over2, .feedback_row_clickable_over3, .feedback_row_clickable_over4 {background:#444!important}
 /*group(s)*/
 .groups_list_search,#search_query_wrap,#public .like_module,#public #subscribe, #public #unsubscribe, #public #unshar,.wall_fixed .wall_fixed_more,.wall_module .reply_fakebox_wrap,.wall_module .reply_box {background:#444!important;color:#999!important}
 #groups_list_search,.wall_fixed .wall_module .post,.pv_comment,.reply_field_wrap {background:#333!important}
