@@ -276,9 +276,9 @@ background: none repeat scroll 0 0 #303132!important}
 border-color: rgba(0, 0, 0, 0) !important;
 }
 #im_footer_filler {
-background: none repeat scroll 0 0 #444444!important}
+background: none repeat scroll 0 0 #333!important}
 #im_footer_sh {
-background-color: #56585b;
+background-color: #333;
 border-bottom: 1px solid #f3f3f3;
 height: 1px;
 margin: 0 -1px;
